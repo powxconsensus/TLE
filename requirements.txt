@@ -14,9 +14,7 @@ chardet==3.0.4
 cleo==0.8.1
 Click==7.0
 clikit==0.6.2
-# cloud-init==21.1
-pycloudlib @ git+https://github.com/canonical/pycloudlib.git@96b146ee1beb99b8e44e36525e18a9a20e00c3f2
-pytest
+cloud-init==21.1
 colorama==0.4.3
 command-not-found==0.3
 configobj==5.0.6
